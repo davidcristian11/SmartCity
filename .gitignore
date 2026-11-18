@@ -11,3 +11,4 @@ node_modules/
 .idea/
 smart-city-backend/uploads/
 .env
+smart-city-backend/src/uploads/
