@@ -6,3 +6,8 @@ venv/
 env/
 *.db
 *.env
+
+node_modules/
+.idea/
+smart-city-backend/uploads/
+.env
